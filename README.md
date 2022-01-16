@@ -2,13 +2,6 @@
 
 This Jupyter notebook is meant to be a trial application that's meant to be an "instant, one-click" service for investors to buy properties and then rent them out in San Francisco. This Jupyter notebooks contains plots of different kinds to analyze data between neighborhoods, includng a plot using GeoViews to see specifically where some of the best places to invest are based on certain criteria like the average gross rent or sale price per square foot per year.
 
-#### A few examples of the types of plots in this notebook:
-
-![A screenshot depicts the resulting plot.](Starter_Code/Images/pricing-info-by-neighborhood.png)
-
-![A screenshot depicts the resulting plot.](Starter_Code/Images/6-4-geoviews-plot.png)
-
-
 ---
 
 ## Technologies
